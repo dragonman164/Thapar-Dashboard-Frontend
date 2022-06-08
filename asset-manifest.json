@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Thapar-Dashboard-Frontend/static/css/main.38be36b0.css",
-    "main.js": "/Thapar-Dashboard-Frontend/static/js/main.e9b3c75e.js",
-    "index.html": "/Thapar-Dashboard-Frontend/index.html",
-    "main.38be36b0.css.map": "/Thapar-Dashboard-Frontend/static/css/main.38be36b0.css.map",
-    "main.e9b3c75e.js.map": "/Thapar-Dashboard-Frontend/static/js/main.e9b3c75e.js.map"
+    "main.css": "/static/css/main.38be36b0.css",
+    "main.js": "/static/js/main.e9b3c75e.js",
+    "index.html": "/index.html",
+    "main.38be36b0.css.map": "/static/css/main.38be36b0.css.map",
+    "main.e9b3c75e.js.map": "/static/js/main.e9b3c75e.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
